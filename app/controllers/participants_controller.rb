@@ -4,7 +4,7 @@ class ParticipantsController < ApplicationController
       data: [{
         attributes: {
           id: 'testeid',
-          email: 'test-participant@userinterviews.com',
+          email: 'test-participant@example.com',
           firstName: 'first',
           lastName: 'last',
         }
